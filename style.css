@@ -1,0 +1,14 @@
+img
+{
+	border-radius: 50%;
+	width=140px ;
+	height= 120px;
+	margin-bottom: 20px; 
+	background-image: url('pic.png');
+
+}
+body
+{
+	background-color: #F2F5A9;
+	
+}
